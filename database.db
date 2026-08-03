@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "id": "user_1785737798489_9s7dyp",
+      "name": "Mahithaa",
+      "email": "mahithaamyleshkumar@gmail.com",
+      "password": "Mahi@123",
+      "createdAt": "2026-08-03T06:16:38.489Z"
+    }
+  ],
+  "tasks": [],
+  "habits": [],
+  "goals": [],
+  "pomodoroSessions": [],
+  "notes": [],
+  "journals": [],
+  "settings": {
+    "theme": "dark",
+    "accentColor": "#abc7ff",
+    "animationsEnabled": true,
+    "notificationsEnabled": true,
+    "wallpaper": "aurora",
+    "soundEffects": true
+  },
+  "achievements": [
+    {
+      "id": "1",
+      "code": "first_task",
+      "title": "First Step",
+      "description": "Complete your first task",
+      "icon": "task_alt",
+      "category": "Tasks",
+      "unlocked": false,
+      "progress": 0,
+      "maxProgress": 1
+    },
+    {
+      "id": "2",
+      "code": "10_tasks",
+      "title": "Task Crusher",
+      "description": "Complete 10 tasks",
+      "icon": "done_all",
+      "category": "Tasks",
+      "unlocked": false,
+      "progress": 0,
+      "maxProgress": 10
+    },
+    {
+      "id": "3",
+      "code": "100_tasks",
+      "title": "Productivity Master",
+      "description": "Complete 100 tasks",
+      "icon": "workspace_premium",
+      "category": "Tasks",
+      "unlocked": false,
+      "progress": 0,
+      "maxProgress": 100
+    },
+    {
+      "id": "4",
+      "code": "7_streak",
+      "title": "Week Warrior",
+      "description": "Maintain a 7-day habit streak",
+      "icon": "local_fire_department",
+      "category": "Streaks",
+      "unlocked": false,
+      "progress": 0,
+      "maxProgress": 7
+    },
+    {
+      "id": "5",
+      "code": "30_streak",
+      "title": "Consistency Titan",
+      "description": "Maintain a 30-day habit streak",
+      "icon": "bolt",
+      "category": "Streaks",
+      "unlocked": false,
+      "progress": 0,
+      "maxProgress": 30
+    },
+    {
+      "id": "6",
+      "code": "early_bird",
+      "title": "Early Bird",
+      "description": "Complete a task before 8:00 AM",
+      "icon": "wb_sunny",
+      "category": "Mastery",
+      "unlocked": false,
+      "progress": 0,
+      "maxProgress": 1
+    },
+    {
+      "id": "7",
+      "code": "night_owl",
+      "title": "Night Owl",
+      "description": "Complete a task after 10:00 PM",
+      "icon": "bedtime",
+      "category": "Mastery",
+      "unlocked": false,
+      "progress": 0,
+      "maxProgress": 1
+    },
+    {
+      "id": "8",
+      "code": "study_master",
+      "title": "Study Master",
+      "description": "Log 5 Study or Reading tasks",
+      "icon": "menu_book",
+      "category": "Focus",
+      "unlocked": false,
+      "progress": 0,
+      "maxProgress": 5
+    },
+    {
+      "id": "9",
+      "code": "fitness_hero",
+      "title": "Fitness Hero",
+      "description": "Complete 5 Health or Fitness tasks",
+      "icon": "fitness_center",
+      "category": "Focus",
+      "unlocked": false,
+      "progress": 0,
+      "maxProgress": 5
+    },
+    {
+      "id": "10",
+      "code": "legend",
+      "title": "Legend of Flow",
+      "description": "Reach 50 completed Pomodoro sessions",
+      "icon": "emoji_events",
+      "category": "Focus",
+      "unlocked": false,
+      "progress": 0,
+      "maxProgress": 50
+    }
+  ]
+}

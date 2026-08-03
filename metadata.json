@@ -1,0 +1,6 @@
+{
+  "name": "LifeFlow - AI Daily Planner",
+  "description": "An award-winning glassmorphism productivity suite with daily planner, task manager, habit tracker, goals, pomodoro timer, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
