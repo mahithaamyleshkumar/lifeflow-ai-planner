@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: lifeflow-ai-planner
+    env: node
+    region: oregon
+    branch: main
+    installCommand: npm ci
+    buildCommand: npm run build
+    startCommand: npm start
